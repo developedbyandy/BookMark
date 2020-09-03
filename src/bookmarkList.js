@@ -66,10 +66,10 @@ const generateBookmarksList = () => {
             <input type="text" name="bookmark-title" id="bookmark-title" class="data-bookmark-title" placeholder="title">
             
             <label for="bookmark-url">URL:</label>
-            <input type="text" name="bookmark-url" id="bookmark-url" class="data-bookmark-url" placeholder="http://example.com">
+            <input type="text" name="bookmark-url" id="bookmark-url" class="data-bookmark-url" placeholder="URL HERE">
             
             <label for="bookmark-url">Description:</label>
-            <input type="text" name="bookmark-description" id="bookmark-description" class="data-bookmark-description" placeholder="bookmark description">
+            <input type="text" name="bookmark-description" id="bookmark-description" class="data-bookmark-description" placeholder="description...">
             
             <p>Rating:</p>
             <label for="rating1">
