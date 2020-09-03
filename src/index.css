@@ -1,0 +1,23 @@
+main {
+    margin: 100px;
+    background-color: beige;
+    border: solid;
+    padding-left: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    color: chocolate;
+}
+
+.form-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: chocolate;
+    background-color: beige;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
